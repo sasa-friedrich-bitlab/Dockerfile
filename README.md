@@ -1,2 +1,2 @@
-# Dockerfile
-My Dockerfiles I use
+# My Dockerfiles
+This is repository for my Dockerfiles.
